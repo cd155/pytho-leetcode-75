@@ -20,8 +20,6 @@ Input: word1 = "abcd", word2 = "pq"
 Output: "apbqcd"
 """
 
-from typing import List
-
 
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
